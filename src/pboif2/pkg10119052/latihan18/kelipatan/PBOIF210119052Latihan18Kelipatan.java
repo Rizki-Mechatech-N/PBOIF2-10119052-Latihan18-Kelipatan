@@ -18,12 +18,13 @@ public class PBOIF210119052Latihan18Kelipatan {
         int k = 7;
         int u = 10;
         int a = 1;
-        int i = 0;
        
-        for(i=0;i<u;i++){
+        for(int i=0;i<u;i++){
            System.out.println(a*k*0.5);
            a++;
         }
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("Developed By Rizki Dwi Nugraha");
     }
     
 }
